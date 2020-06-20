@@ -6,7 +6,7 @@
  
  
  ## Project 2 - TMDB Moview Dataset
-
+ This project used TMDb movie Dataset that contains about 10,000 movies collected from TMDb. Each movie includeed information on its user rating, revenue, cast, genres, etc. The goal of this investigation is to analyze insights abonout movie features to help movie industry to earn more profits.
 
 ## Project 3 - Analyze_A_B Test Analysis
 
